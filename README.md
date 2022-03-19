@@ -6,7 +6,7 @@
 
 The repository contains a `.idea/` folder which is a [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) project file. The IDE can be used to easily run and debug the `log4j` functionality.
 
-just follow me in the video 
+just follow me in the video.
 
 # the video link: 
 
