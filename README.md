@@ -1,6 +1,6 @@
 # log4j CVE-2021-44228
 
-# i get this from the liveoverflow repository, i just delete the xml configuration file and the main class be cause we build them from scratch in the youtube video.
+# i get this from the liveoverflow repository, i just delete the xml configuration file and the main class because we build them from scratch in the youtube video.
 
 ## Setup
 *)   open the project using intellij IDEA
